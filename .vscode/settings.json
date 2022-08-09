@@ -1,6 +1,6 @@
 {
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "prettier.printWidth": 120,
+  "prettier.printWidth": 100,
   "indentRainbow.updateDelay": 100,
   "html.format.wrapLineLength": 80,
   "html.format.enable": true,
